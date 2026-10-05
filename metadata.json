@@ -1,0 +1,6 @@
+{
+  "name": "ScandeAcessibilidade",
+  "description": "Descubra barreiras de acessibilidade do seu site em poucos segundos com auditoria técnica automatizada e orientações práticas de correção baseadas na WCAG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
